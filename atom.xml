@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marcus-lacia.github.io/</id>
     <title>Momo</title>
-    <updated>2021-03-23T07:12:03.908Z</updated>
+    <updated>2021-03-23T07:14:08.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://marcus-lacia.github.io/"/>
     <link rel="self" href="https://marcus-lacia.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://marcus-lacia.github.io/images/avatar.png</logo>
     <icon>https://marcus-lacia.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Momo</rights>
+    <entry>
+        <title type="html"><![CDATA[测试图片]]></title>
+        <id>https://marcus-lacia.github.io/post/ce-shi-tu-pian/</id>
+        <link href="https://marcus-lacia.github.io/post/ce-shi-tu-pian/">
+        </link>
+        <updated>2021-03-23T07:13:47.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://marcus-lacia.github.io//post-images/1616483636028.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
         <id>https://marcus-lacia.github.io/post/ce-shi/</id>
